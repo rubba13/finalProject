@@ -1,0 +1,6 @@
+correct_email = '{input correct email}'
+correct_login = '{input correct login}'
+correct_ls = '{input correct account}'
+correct_password = '{input correct password}'
+correct_phone_number = '{input correct phone number}'
+incorrect_password = 'Qwerty123'
